@@ -60,7 +60,7 @@ Element.scrollIntoView()
 
 ### Final Output
 
-![Output](https://github.com/limillions/UdacityFEND-Landing-Page-Project/blob/main/ProjectSS.png)
+![Output](https://github.com/limillions/UdacityFEND-Landing-Page-Project/blob/master/ProjectSS.png)
 
 ### Author
 
